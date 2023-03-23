@@ -1,0 +1,1 @@
+remove the README on Github and set upstream to the remote repo.
